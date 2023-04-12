@@ -1,4 +1,4 @@
-Hello, Welcome! 👋
+👾 Hello, Welcome! 👋
 
 <p>I'm Verônica Luize, I have 28 years old and live in Brazil.</p>
 <p>😄 Pronouns: ela/dela | she/her</p>
