@@ -5,8 +5,7 @@ Hello, Welcome! 👋
 <p>🔭 Currently work as a customer service support and I manage an e-commerce at Nerd Universe</p>
 <p>⚡ Fun fact: I am a trained journalist, passionate about communication and this has given me some special skills </p>
 <br></br>
-<br></br>
-<br></br>
+
 <p>📫 If you want to contact me: vtluize@gmail.com</p>
 
 
